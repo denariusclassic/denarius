@@ -1,7 +1,7 @@
 # Denarius [D]
 Tribus Algo PoW/PoS Hybrid Cryptocurrency
 
-![logo](http://i.imgur.com/gIe5vnw.png)
+![logo](https://i.imgur.com/QBxqxZH.png)
 
 [![GitHub version](https://img.shields.io/github/release/carsenk/denarius.svg)](https://badge.fury.io/gh/carsenk%2Fdenarius)
 [![License: GPL v3](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/carsenk/denarius/blob/master/COPYING)
